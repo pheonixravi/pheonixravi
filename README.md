@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pheonixravi
-- 👀 I’m interested in ...game development,android mobile apps and web apps
-- 🌱 I’m currently learning ...unity 2d game
+- 👀 I’m interested in ...AI,android mobile apps and web apps
+- 🌱 I’m currently learning ...ML and GenAI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ravikumar.krishnamurthy@gmail.com
 
